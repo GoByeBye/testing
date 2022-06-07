@@ -1,5 +1,4 @@
-
- module github.com/GoByeBye/testing
+module github.com/GoByeBye/testing
 
 go 1.17
 
